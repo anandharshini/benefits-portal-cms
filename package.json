@@ -1,7 +1,7 @@
 {
   "name": "cms-netlify",
   "version": "1.0.0",
-  "description": "Benefits Portal",
+  "description": "Nuxt.js + Netlify CMS project",
   "author": "",
   "private": true,
   "scripts": {

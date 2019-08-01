@@ -1,6 +1,6 @@
 # cms-netlify
 
-> Benefits Portal
+> Nuxt.js + Netlify CMS project
 
 ## Build Setup
 
